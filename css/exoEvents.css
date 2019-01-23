@@ -1,0 +1,61 @@
+*{
+    margin: 0 ;
+}
+
+p{
+    margin: 5%;
+   max-width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+
+}
+
+.rouge{
+    background-color: darkred;
+}
+
+.bleu{
+    background-color: darkblue;
+
+}
+
+.vert{
+    background-color: darkgreen;
+}
+.btn{
+    display:flex;
+justify-content: space-around;
+
+}
+#rouge{
+    background-color: darkred;
+    color:white;
+    border-style: none;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+#bleu{
+    background-color: darkblue;
+    color:white;
+    border-style: none;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+#vert{
+    background-color: darkgreen;
+    color:white;
+    border-style: none;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+#init{
+    background-color: black;
+    color:white;
+    border-style: none;
+    padding: 5px 8px;
+    border-radius: 10px;
+}

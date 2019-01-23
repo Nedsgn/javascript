@@ -1,0 +1,12 @@
+
+.conteneur{
+    width: 400px;
+    margin: auto;
+}
+
+.slide{
+    display: none;
+    width: 600px;
+    height: 350px;
+}
+

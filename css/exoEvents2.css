@@ -1,0 +1,12 @@
+img{
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 500px;
+}
+
+.btn{
+    margin: auto;
+    width: 250px;
+    padding-top:10%;
+}

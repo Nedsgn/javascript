@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>evenements</title>
+    <link rel="stylesheet" href="../css/evenements.css"/>
+
+</head>
+<body>
+<main>
+<h1 id="eventsTitle" onclick="alert('vous cliqué sur moi !');" >EVENTS WITH JS</h1>
+<!--<img class="grandeImage" ondblclick="agrandirImage()"  onclick="gestionClick()" id="eventsImg" src="https://courses.cs.washington.edu/courses/cse461/10au/section/Section9/WebBasics_files/figure_3_event.png" title="evenement en js"/>
+-->
+
+    <article id="eventsParaph" on onclick="changerTextColor()" >
+    <h2>Qu'appelle-t-on un événement?</h2>
+    <p>
+        Les événements sont des actions de l'utilisateur, qui vont pouvoir donner
+        lieu à une interactivité. L'événement par excellence est le clic
+        de souris, car c'est le seul que le HTML gère. Grâce au Javascript il est possible
+        d'associer des fonctions, des méthodes à des événements tels que le passage
+        de la souris au-dessus d'une zone, le changement d'une valeur, ...<br>
+
+
+        Ce sont les gestionnaires d'événements qui permettent d'associer une action à un événement.
+        La syntaxe d'un gestionnaire d'événement est la suivante :<br>
+
+
+        onEvenement="Action_Javascript_ou_Fonction();"</p>
+        <img id="eventsImage" src="../img/bann.jpg" title="Events image"
+                                                               alt="une image sur les events"
+                                                               onmouseover="agrandirImage();"
+                                                               onmouseout="retricir();"/>
+    </article>
+</main>
+
+<script type="application/javascript" src="../js/evenements.js"></script>
+
+</body>
+</html>

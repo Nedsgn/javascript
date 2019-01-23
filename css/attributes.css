@@ -1,0 +1,13 @@
+.test{
+    border : 3px forestgreen dotted;
+    text-align: center;
+}
+
+.taille{
+    width: 300px;
+    height: 300px;
+}
+
+.textColor{
+    color: darkgreen;
+}

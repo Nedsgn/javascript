@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: deeppink;
+}
+
+span{
+    border: 3px solid deeppink;
+}
+
+#imagesLignes{
+    width:100%;
+    vertical-align:middle;
+    display:inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+img{
+    width: 500px;
+    height: 300px;
+
+}
+
+#retourLien{
+    display: block;
+   margin: 0 auto;
+    text-align: center;
+    font-size: 2em;
+
+}

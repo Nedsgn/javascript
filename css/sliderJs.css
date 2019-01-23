@@ -1,0 +1,26 @@
+.slider{
+
+    width: 600px;
+    height: 500px;
+    display: inline;
+}
+img{
+    margin: auto;
+    width: 600px;
+    height: 500px;
+
+}
+
+.btn{
+    margin: auto;
+    width: 250px;
+    padding-top:5%;
+}
+
+.slide{
+    display: none;
+}
+
+span{
+    display: block;
+}

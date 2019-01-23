@@ -1,0 +1,18 @@
+h1{
+    background-color: gold;
+}
+
+img{
+    margin: 0 auto;
+display: block;
+    margin-bottom: 5%;
+}
+
+.texteRose{
+    color:deeppink;
+}
+
+.grandeImage{
+    width: 500px;
+    height: 250px;
+}
